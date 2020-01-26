@@ -19,7 +19,7 @@ operations_map = {
 }
 
 
-print("Hell enter operation number to carry out operation\n"\
+print("Hello, enter operation number to carry out operation\n"\
       "Enter 1 for addition\n" \
       "Enter 2 for substraction\n" \
       "Enter 3 for multiplication\n" \
