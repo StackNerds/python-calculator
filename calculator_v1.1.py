@@ -13,8 +13,6 @@ def multiply(first_number, second_number):
 
 def divide(first_number, second_number):
     quotient = 0
-    if first_number == 0:
-        return 0
     while first_number >= second_number:
         first_number = first_number - second_number
         quotient = quotient + 1
